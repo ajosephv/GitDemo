@@ -8,6 +8,9 @@ public class RESTAPITest {
 	public void ApiAutomation()
 	{
 		System.out.println("work");
+		System.out.println("kast");
+		System.out.println("kodumai");
+		System.out.println("mudila");
 	}
 	
 	@Test
