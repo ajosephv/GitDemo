@@ -8,6 +8,10 @@ public class SeleniumTest {
 	public void Automation()
 	{
 		System.out.println("i dont nkno");
+		System.out.println("work");
+		System.out.println("kast");
+		System.out.println("kodumai");
+		System.out.println("mudila");
 	}
 	
 	@Test
