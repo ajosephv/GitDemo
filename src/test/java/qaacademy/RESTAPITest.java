@@ -17,6 +17,10 @@ public class RESTAPITest {
 	public void NormalElement()
 	{
 		System.out.println("office");
+		System.out.println("work");
+		System.out.println("kast");
+		System.out.println("kodumai");
+		System.out.println("mudila");
 	}
 
 }
